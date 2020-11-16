@@ -40,6 +40,7 @@ INSTALLED_APPS = [
 
     # custom apps
     'translator.apps.TranslatorConfig',
+    'analytics.apps.AnalyticsConfig',
     
     # third party apps
 ]
